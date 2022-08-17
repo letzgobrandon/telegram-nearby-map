@@ -8,7 +8,7 @@
     "express": "^4.17.1",
     "express-request-id": "^1.4.1",
     "tdl": "^7.0.0",
-    "tdl-tdlib-addon": "^1.0.1",
+    "tdl-tdlib-addon": "^1.1.0",
     "tdlib": "0.0.0-alpha.0",
     "winston": "^3.3.3"
   },
